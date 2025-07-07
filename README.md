@@ -4,6 +4,7 @@ Lampung is a province on the Southern tip of Indonesia's third largest Island, S
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b98bb374-c407-4f2d-9616-f6bf2376fce6" alt="Map of Lampung province" width="500">
 </p>
+
 ## Goal
 In this project, I wanted to analyze the rates of deforestation in Lampung, and correlated factors. I set out to answer the following questions. 
 
